@@ -1,7 +1,7 @@
 TouchBar configuration for Slack
 =================
 
-A basic TouchBar configuration for Slack. It includes buttons to switch between groups and a button to dismiss all the messages (something I do a lot). This is how it looks:
+A basic TouchBar configuration for Slack. It includes buttons to switch between groups and a button to dismiss all the unread messages (something I do a lot). This is how it looks:
 
 ![Example Image][1]
 
